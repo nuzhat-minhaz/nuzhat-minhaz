@@ -1,5 +1,6 @@
 <h2>In my native language Bangla, *tech-techie* means lizard.:dragon:</h2>
 <img src="https://media1.tenor.com/images/2811924602cf8521e134c4fcc31ad0d8/tenor.gif?itemid=17916956" width="150" height="150">
+
 <hr>
 
 <h3><i>Hellooo I'm Nuzhat (pronounced: Nooz-haath). I've been an artist all my life. And then I somehow ended up on GitHub. :dizzy_face:
@@ -14,6 +15,7 @@ design in front-end systems as a software developer.</i> </h3>
 
 :stars: This Summer 2021: I'll be joining Constellation Brands for an IT Development and UX Design Co-op.<br/>
 :spaghetti: Last Fall 2020: I worked at Wegmans as an IT Web Software Developer Co-op for their Meals2GO Web Team.<br/>
+
 <hr>
 <h4>Currently, I am:</h4>
 :iphone: A <strong>Teaching Assistant for Web and Mobile</strong> Course at RIT iSchool (to help students with HTML/CSS, JS, 
@@ -34,6 +36,7 @@ Tech x Social Impact 2020 Cohort of 19 selected founders</a> with sucessful tech
 <h4>tech</h4>
 :pizza: Tabs over Spaces. Grids over Flexbox. Java/jS over Python. It's pronounced 'JIF' because the creator said so.<br/>
 :cherries: I've started counting from zero, not sure how I feel about it.<br/>
+<img src="https://media1.tenor.com/images/977be734697e4c5cc6f788a2d5a123d4/tenor.gif?itemid=16343382" width="150" height="150">
 
 <hr>
 <h4>non-tech:</h4>
