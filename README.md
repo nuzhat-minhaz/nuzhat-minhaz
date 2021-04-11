@@ -35,7 +35,7 @@ Tech x Social Impact 2020 Cohort of 19 selected founders</a> with sucessful tech
 <hr>
 <h4>tech</h4>
 :pizza: Tabs over Spaces. Grids over Flexbox. Java/jS over Python. It's pronounced 'JIF' because the creator said so.<br/>
-:cherries: I've started counting from zero, not sure how I feel about it.<br/>
+:cherries: I've started counting from zero, not sure how I feel about it.<br/><br/>
 <img src="https://media1.tenor.com/images/977be734697e4c5cc6f788a2d5a123d4/tenor.gif?itemid=16343382" width="150" height="150">
 
 <hr>
