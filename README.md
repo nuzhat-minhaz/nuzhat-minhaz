@@ -13,7 +13,7 @@ design in front-end systems as a software developer.</i> </h3>
 
 <hr>
 
-:stars: This Summer 2021: I'll be joining Constellation Brands for an IT Development and UX Design Co-op.<br/>
+:stars: This Summer 2021: I worked at Constellation Brands in Product Management and UX Design for IT Business Operations and PMO.<br/>
 :spaghetti: Last Fall 2020: I worked at Wegmans as an IT Web Software Developer Co-op for their Meals2GO Web Team.<br/>
 
 <hr>
