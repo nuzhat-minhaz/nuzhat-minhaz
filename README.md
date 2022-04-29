@@ -7,18 +7,19 @@
 I implement my artistic pursuits in technology via visual factors of user experience 
 design in front-end systems as a software developer.</i> </h3>
 
-:paw_prints: 3rd Year Computing & Information Technologies major at Rochester Institute of Technology<br/>
+:paw_prints: 4th Year Computing & Information Technologies major at Rochester Institute of Technology<br/>
 :mortar_board: Concentrations: Cybersecurity and Database Applications<br/>
 :houses: International Student from Dhaka, Bangladesh
 
 <hr>
 
+☁️ This Summer 2022: I will be joining Microsoft as a Program Manager for Azure Static Web Apps
 :stars: This Summer 2021: I worked at Constellation Brands in Product Management and UX Design for IT Business Operations and PMO.<br/>
 :spaghetti: Last Fall 2020: I worked at Wegmans as an IT Web Software Developer Co-op for their Meals2GO Web Team.<br/>
 
 <hr>
 <h4>Currently, I am:</h4>
-:iphone: A <strong>Teaching Assistant for Web and Mobile</strong> Course at RIT iSchool (to help students with HTML/CSS, JS, 
+:iphone: A <strong>Teaching Assistant for Web and Mobile and UX Design</strong> Courses at RIT iSchool (to help students with HTML/CSS, JS, 
 Wireframing, Mockups, Responsive Web Design)<br/>
 :bar_chart: A <strong>Research Assistant: Data Analysis & Entry</strong>, for the Political Science Department at RIT College of Liberal Arts.<br/>
 :lock: The Founder & CEO of <strong>PrivaC:</strong> Bangladesh's 1st cybercrime countermeasure services organization with over 300 cases in a year<br/>
