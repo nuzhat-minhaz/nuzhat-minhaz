@@ -13,9 +13,9 @@ design in front-end systems as a software developer.</i> </h3>
 
 <hr>
 
-☁️ This Summer 2022: I will be joining Microsoft as a Program Manager for Azure Static Web Apps
-:stars: This Summer 2021: I worked at Constellation Brands in Product Management and UX Design for IT Business Operations and PMO.<br/>
-:spaghetti: Last Fall 2020: I worked at Wegmans as an IT Web Software Developer Co-op for their Meals2GO Web Team.<br/>
+☁️ Summer 2022: I will be joining Microsoft as a Program Manager for Azure Static Web Apps <br/>
+:stars: Summer 2021: I worked at Constellation Brands in Product Management and UX Design for IT Business Operations and PMO.<br/>
+:spaghetti: Fall 2020: I worked at Wegmans as an IT Web Software Developer Co-op for their Meals2GO Web Team.<br/>
 
 <hr>
 <h4>Currently, I am:</h4>
