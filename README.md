@@ -5,22 +5,22 @@
 
 <h3><i>Hellooo I'm Nuzhat (pronounced: Nooz-haath). I've been an artist all my life. And then I somehow ended up on GitHub. :dizzy_face:
 I implement my artistic pursuits in technology via visual factors of user experience 
-design in front-end systems as a software developer.</i> </h3>
+design in front-end systems as a software developer-turned-product manager. Idk how that happened either.</i> </h3>
 
-:paw_prints: 4th Year Computing & Information Technologies major at Rochester Institute of Technology<br/>
+:paw_prints: Computing & Information Technologies graduate from Rochester Institute of Technology, Class of '22 <br/>
 :mortar_board: Concentrations: Cybersecurity and Database Applications<br/>
 :houses: International Student from Dhaka, Bangladesh
 
 <hr>
 
-☁️ Summer 2022: I will be joining Microsoft as a Program Manager for Azure Static Web Apps <br/>
+☁️ Summer 2022: I worked at Microsoft as a Program Manager Intern for Azure Static Web Apps <br/>
 :stars: Summer 2021: I worked at Constellation Brands in Product Management and UX Design for IT Business Operations and PMO.<br/>
 :spaghetti: Fall 2020: I worked at Wegmans as an IT Web Software Developer Co-op for their Meals2GO Web Team.<br/>
 
 <hr>
-<h4>Currently, I am:</h4>
-:iphone: A <strong>Teaching Assistant for Web and Mobile and UX Design</strong> Courses at RIT iSchool (to help students with HTML/CSS, JS, 
-Wireframing, Mockups, Responsive Web Design)<br/>
+<h4>Throughout college, I worked as:</h4>
+:iphone: A <strong>Teaching Assistant for Web and Mobile, UX Design, and Info Requirements Modeling</strong> Courses at RIT iSchool (to help students with HTML/CSS, JS, 
+Wireframing, Mockups, Responsive Web Design, Project Management, Database Modeling)<br/>
 :bar_chart: A <strong>Research Assistant: Data Analysis & Entry</strong>, for the Political Science Department at RIT College of Liberal Arts.<br/>
 :lock: The Founder & CEO of <strong>PrivaC:</strong> Bangladesh's 1st cybercrime countermeasure services organization with over 300 cases in a year<br/>
 
